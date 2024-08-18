@@ -138,6 +138,3 @@ Reach out to us at [your-email@example.com](mailto:your-email@example.com).
 ---
 
 ### Happy Mining! ⛏️✨
-```
-
-Copy and paste the above content into your `README.md` file, and feel free to make any adjustments. If you need more help, let me know!
