@@ -95,7 +95,7 @@ Ensure you have the following installed:
    - **Frontend**:
      ```bash
      cd frontend
-     npm start
+     npm run dev
      ```
 
 4. **Interact with the network**:  
@@ -114,27 +114,6 @@ Ensure you have the following installed:
 
 4. **Blockchain State**:  
    Query the current blockchain state via the RPC server.
-
-## 🤝 **Contributing**
-
-We welcome contributions from the community! Here’s how you can help:
-
-- **Fork the repository**
-- **Create a new branch**
-- **Make your changes**
-- **Submit a pull request**
-
-Please refer to our [contributing guidelines](CONTRIBUTING.md) for more details.
-
-## 📄 **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 📬 **Contact**
-
-Have questions or want to get involved?  
-Reach out to us at [your-email@example.com](mailto:your-email@example.com).
-
 ---
 
 ### Happy Mining! ⛏️✨
