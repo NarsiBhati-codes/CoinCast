@@ -3,8 +3,6 @@
 🚀 **A Simple Bitcoin-like Blockchain Network with Real-Time Connectivity**  
 _CoinCast is a decentralized network where miners collaborate to create, verify, and broadcast blocks in a secure, real-time environment. The platform allows users to create wallets, sign transactions, and interact with the blockchain via an intuitive frontend. Built with Node.js and React, CoinCast brings blockchain innovation to life._ 
 
-![CoinCast Banner](https://example.com/banner-image) <!-- Replace with actual image link -->
-
 ## 📜 **Table of Contents**
 
 1. [Introduction](#-introduction)
@@ -13,9 +11,6 @@ _CoinCast is a decentralized network where miners collaborate to create, verify,
 4. [Tech Stack](#-tech-stack)
 5. [Getting Started](#-getting-started)
 6. [Usage](#-usage)
-7. [Contributing](#-contributing)
-8. [License](#-license)
-9. [Contact](#-contact)
 
 ## 🎉 **Introduction**
 
@@ -47,10 +42,6 @@ Welcome to **CoinCast**, a lightweight blockchain implementation designed to sim
 3. **Frontend Application**:  
    - React-based UI to interact with the blockchain.
    - Create wallets, sign transactions, and submit them to miners.
-
-4. **RPC Server**:  
-   - Provides a standardized API for miners and the frontend to interact with the blockchain.
-   - Enables querying blockchain state, submitting transactions, and adding blocks.
 
 ## 🛠️ **Tech Stack**
 
