@@ -1,6 +1,3 @@
-Sure! Here’s your styled README content for the CoinCast project:
-
-```markdown
 # 🌐 **CoinCast**
 
 🚀 **A Simple Bitcoin-like Blockchain Network with Real-Time Connectivity**  
